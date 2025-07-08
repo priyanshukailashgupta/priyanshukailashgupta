@@ -60,8 +60,7 @@ Automates attendance using facial recognition to eliminate manual tracking.
 
 ### 📫 Get in Touch
 
-📧 **Email**: [priyanshukailashgupta@gmail.com](mailto:priyanshukailashgupta@gmail.com)  
-📱 **Phone**: +91 91100 20949  
+📧 **Email**: [priyanshukailashgupta@gmail.com](mailto:priyanshukailashgupta@gmail.com)   
 🔗 **LinkedIn**: [linkedin.com/in/priyanshu-kailash-gupta](https://www.linkedin.com/in/priyanshu-kailash-gupta)
 
 ---
