@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Priyanshu Kailash Gupta  
-
-📱 **+91 91100 20949**  
+ 
 📧 **[priyanshukailashgupta@gmail.com](mailto:priyanshukailashgupta@gmail.com)**  
 🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
 
@@ -84,9 +83,9 @@ I specialize in **full-stack development, AI-powered tools, and automation syste
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=priyanshukailashgupta&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshukailashgupta&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukailashgupta&layout=compact&theme=tokyonight)  
 
 ---
 
